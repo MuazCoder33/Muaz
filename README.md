@@ -63,14 +63,14 @@ Check out this amazing video on YouTube:
 
 # About Me
 
-Welcome to the About page! Here's a little bit about myself.
+I am a 16 year old studnet who loves to hangout with friends and do fun activities
 
 ## Interests
-- Programming
+- Working out
 - Movies
-- Technology
+- Walks
 
 ## Contact Me
-You can reach me at: [email@example.com](mailto:email@example.com)
+You can reach me at: muaz14459@fmpsd.ab.ca
 
-[Go back to the homepage](index.md)
+
